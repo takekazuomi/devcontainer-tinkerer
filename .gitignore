@@ -1,0 +1,14 @@
+*~
+*.pyc
+*.orig
+*.swp
+*.egg
+*.egg-info/*
+blog/blog/*
+blog/themes/*
+build/*
+dist/*
+.tox/*
+.ropeproject
+.coverage
+.vscode
